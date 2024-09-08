@@ -1,47 +1,42 @@
-# 9th-template
-9기 아카데미 프로젝트를 위한 템플릿입니다.
+# 스페셜한 Spatial AI 스터디
 
-## 프로젝트 소개
-- 내용
+## 스터디 목표
 
-## 팀 멤버
-|  | | | |
-|---|------|-------|---------|
-|   <img src = "https://avatars1.githubusercontent.com/u/4317641?s=460&u=8d90f1833f528e5a62e26b7f6af5c9868d2820af&v=4" width="128px;"/> <br/> [김찬란](https://github.com/seriousran) (빌더) <br/> NVIDIA <br/> 1기~ <br/>  <br/> |  <img src = "https://private-user-images.githubusercontent.com/86551201/355474290-c9b55d7f-e148-4632-8e30-8c0277197296.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyNDc0NjAsIm5iZiI6MTcyNDI0NzE2MCwicGF0aCI6Ii84NjU1MTIwMS8zNTU0NzQyOTAtYzliNTVkN2YtZTE0OC00NjMyLThlMzAtOGMwMjc3MTk3Mjk2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIxVDEzMzI0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY0Y2I3ZThmMWY2YzZjYTRiZjQxZmM1ODU5ODUxOTVmZjcxODAyMjQ4ZmFlMTQ2ZjRhNzYzZjY1Y2RkZjhhOTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.taMJhXyE8iSxU_87ZvzpV8jHsxS2AT3nwlPQL0V1DyA" width="128px;"/> <br/> [박원기](https://github.com/kalelpark) (빌더) <br/> 아주대학교 <br/> 5기~ <br/> NeRF with Real-World <br/> |   <img src = "https://private-user-images.githubusercontent.com/115800583/356815407-49fab11d-979a-4dac-a4fb-02945fbbf58e.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyNDc0NjAsIm5iZiI6MTcyNDI0NzE2MCwicGF0aCI6Ii8xMTU4MDA1ODMvMzU2ODE1NDA3LTQ5ZmFiMTFkLTk3OWEtNGRhYy1hNGZiLTAyOTQ1ZmJiZjU4ZS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyMVQxMzMyNDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZWY3MzA3YWQzODE1ZGFjNzNhZTVmMWU0NmI2NjYyN2U3YTQwYzdkMzVlYjhmY2I2OTA2ZDhkZDdlYmFkZjM4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.FoMt-YoUtuSu_WVP9NmS6CxzZv9p4TeywEi8H5JS8jI" width="128px;"/> <br/> [박수형](https://github.com/Coding-Child) (빌더) <br/> 가톨릭대학교 <br/> 8기~ <br/> RAG is All You Need!! <br/>|   <img src = "https://private-user-images.githubusercontent.com/63176650/356855939-d3f3bbc2-83fa-4b15-9ed3-39949b2f57f7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyNDc0NjAsIm5iZiI6MTcyNDI0NzE2MCwicGF0aCI6Ii82MzE3NjY1MC8zNTY4NTU5MzktZDNmM2JiYzItODNmYS00YjE1LTllZDMtMzk5NDliMmY1N2Y3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIxVDEzMzI0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ0NGQ2NDU4NDQ1YTFlYzViNTdkMjhkYWFmNzc1ZjI4ZGUzMjM4ZjcwYjAzZDY5MjE4ZjcyOTVmYmFhYTI3YTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.0tAslVMk1bpjCT62p29D2Cz_ZgrB0eIBxm9HKuKbg14" width="128px;"/> <br/> [심세원](https://github.com/thrcle) (빌더) <br/> Pulmuone <br/> 9기~ <br/> 내게 딱 맞는 건강디저트<br/>  추천시스템 구현하기 <br/> |
-|   <img src = "https://avatars.githubusercontent.com/u/60315070?s=400&u=778854dfa9e806ceb1bc3e8d6cf30634df316c15&v=4" width="128px;"/> <br/> [박상호](https://www.linkedin.com/in/sangho-park-4220aa22a/) (빌더) <br/> 성균관대학교<br/> 7기~ <br/> Bridging Causal Inference <br/> and Real-World Evidence: <br/> A Study of FDA <br/> and Other Regulatory Guidelines <br/> |  <img src = "https://private-user-images.githubusercontent.com/39010111/357014882-6a14a996-a5dd-44e4-952a-eb0c1ad46894.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyNDc0NjAsIm5iZiI6MTcyNDI0NzE2MCwicGF0aCI6Ii8zOTAxMDExMS8zNTcwMTQ4ODItNmExNGE5OTYtYTVkZC00NGU0LTk1MmEtZWIwYzFhZDQ2ODk0LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyMVQxMzMyNDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00OTMwNjUzZDQ3NjdiOWM4NzdkYWVjNzJiMDMyMmY0ZWI3MzVkZmQ2ZGViMmQyYWRiNzY5ZDBiM2M1NTdiMmQyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.qphkSHHm6PPUCLro0ZuIA4LB6Jb-2WA06DkFgzeJ2WA" width="128px;"/> <br/> [장형기](https://github.com/changh95) (빌더) <br/> StradVision <br/> 9기~ <br/> 스페셜한 Spatial AI <br/>|   <img src = "https://private-user-images.githubusercontent.com/25517592/357254816-2ba87504-48a7-4551-aeff-befcb609aa1d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyNDc0NjAsIm5iZiI6MTcyNDI0NzE2MCwicGF0aCI6Ii8yNTUxNzU5Mi8zNTcyNTQ4MTYtMmJhODc1MDQtNDhhNy00NTUxLWFlZmYtYmVmY2I2MDlhYTFkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIxVDEzMzI0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg2OTE1YTM0NGFhODAyMjYzMWVmNjg5NTJlODFkZjZjZmUxYmI3Y2FhMDc0Njk4NDk1YTQ2MWQ2ZDI3NjcwYzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.XXZOovOvl8vPJCMiCCrZiNqirf82Naqe1QF5kml-UXw" width="128px;"/> <br/> [이경찬](https://github.com/kyeongchan92) (빌더) <br/> 하나투어 <br/> 6기~ <br/> 미정 <br/>|   <img src = "https://camo.githubusercontent.com/b7e93e8ef861fd7f229780b8b84bc2fa97f4141378d2b7ffacc0a20e3fece0b4/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f76322f43353630334151487971794d575964507853672f70726f66696c652d646973706c617970686f746f2d736872696e6b5f3830305f3830302f70726f66696c652d646973706c617970686f746f2d736872696e6b5f3830305f3830302f302f313539303136353936343831303f653d3137323937323830303026763d6265746126743d53674f5756746a5f6d7774595944636d3971586364793648673675534f4875475f4a7667395268754b374d" width="128px;"/> <br/> [박진호](https://www.linkedin.com/in/jinho-park-9010) (빌더) <br/> 현대자동차 <br/> 3기~ <br/> - <br/> |
+Embodied AI에 대해 아시나요?
+로보틱스 기술의 세부 분야로서, 컴퓨터 속에서만 존재하는 AI를 실제 세상과 물리적으로 상호작용할 수 있는 '몸을 가진 AI'를 만들기 위한 연구 분야입니다.
+이러한 Embodied AI를 만들기 위한 기술 중 하나로 '공간 지능' - Spatial AI가 떠오르고 있습니다.
 
-## 프로젝트 목표
-1. 주요 추천 시스템 이론에 대한 구현 방식 이해(각 방식의 원리, 특징, 장단점 파악)
-2. 학습한 내용을 기반으로 실전 프로젝트에 적용: 추천시스템 구현 및 반영까지 
+근데 이 기술, 범위가 너무 넓습니다.
+우리는 여러 기수동안 유명한 교수님들의 주요 논문을 읽으며 Spatial AI에 대한 이해를 높일겁니다.
+이번 기수에서는 Spatial AI의 선두주자 - Andrew Davison 교수님의 논문을 공부합니다.
+
+본인이 가장 익숙한 / 공부하고 싶은 논문을 골라서, 매주 차례를 돌며 논문 세미나를 진행합니다.
 
 ## 프로젝트 내용
-**Part 0. OT 및 스터디 목표 안내 (1주)**
-  - 자기소개 
-  - 진행일정 및 프로젝트 목표 공유
 
-**Part 1. OOO (4주) : 내용**
-  - 내용
-  - 내용
+이번 기수에서는 '기초 SLAM', 'Gaussian Belief Propgation', 'Coded SLAM & Learned priors'에 집중합니다.
+다음 기수에서는 'Object / Semantic SLAM'과 'NeRF/3DGS를 이용한 implicit reconstruction + feature fusion'에 집중합니다.
 
-**Part 2. 실전 적용 (8주)**
-  - 내용
-  - 내용
+매주 2명의 인원이 각각 1개의 논문에 해당하는 30분 세미나를 준비해 발표합니다.
 
-## 활동 기간
-- 날짜: 9-12월
-- 시간: 매주 오후 9-10시 (변동가능)
-- 장소: 온라인 디스코드
+- 시간: 화요일 오후 9시
+- 장소: [#ROOM-AN](https://discord.gg/EPurkHVtp2)
 
-## 스케쥴
+| 날짜 | 내용 | 발표자 | 매체 | 
+| ----- | ----- | -------- | ----- |
+| 2024/09/10 | OT (스터디 소개, 방향 논의, Ice breaking), 발표 논문 선정 | [장형기]() | [링크]() | 
+| 2024/09/17 |  추석! 쉽니다!  | [발표자]() [발표자]() | [링크]() | 
+| 2024/09/24 | [FutureMapping: The Computational Structure of Spatial AI Systems](https://arxiv.org/abs/1803.11288), [FutureMapping 2: Gaussian Belief Propagation for Spatial AI](https://arxiv.org/abs/1910.14139) | [발표자]() [발표자]() | [링크]() | 
+| 2024/10/01 | [Bundle adjustment on a graph processor](https://arxiv.org/abs/2003.03134), [Visual introduction to Gaussian Belief Propagation](https://arxiv.org/abs/2107.02308) | [발표자]() [발표자]() | [링크]() | 
+| 2024/10/08 | [Incremental Abstraction in Distributed Probabilistic SLAM graphs](https://arxiv.org/abs/2109.06241), [Visual Odometry using a Focal-Plane sensor-processor](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1819-ug-projects/MuraiR-Visual-Odometry-Using-a-Focal-plane-Sensor-processor.pdf) | [발표자]() [발표자]() | [링크]() | 
+| 2024/10/15 | [BIT-VO: Visual Odometry at 300 FPS using Binary Features from the Focal Plane](https://arxiv.org/abs/2004.11186), [A Robot web for distributed many-device localisation](https://arxiv.org/abs/2202.03314) | [발표자]() [발표자]() | [링크]() | 
+| 2024/10/22 | [Learning in deep factor graphs with Gaussian Belief Propagation](https://arxiv.org/abs/2311.14649), [Distributed Simultaneous Localisation and Auto-Calibration using Gaussian Belief Propagation](https://arxiv.org/abs/2401.15036) | [발표자]() [발표자]() | [링크]() | 
+| 2024/10/29 | [PixRO: Pixel-Distributed Rotational Odometry with Gaussian Belief Propagation](https://arxiv.org/abs/2406.09726), [CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM](https://arxiv.org/abs/1804.00874)| [발표자]() [발표자]() | [링크]() | 
+| 2024/11/05 | [SceneCode: Monocular Dense Semantic Reconstruction using Learned Encoded Scene Representations](https://arxiv.org/abs/1903.06482), [DeepFactors: Real-Time Probabilistic Dense Monocular SLAM](https://arxiv.org/abs/2001.05049) | [발표자]() [발표자]() | [링크]() | 
+| 2024/11/12 | [CodeMapping: Real-Time Dense Mapping for Sparse SLAM using Compact Scene Representations](https://arxiv.org/abs/2107.08994), [End-to-End Egospheric spatial memory](https://arxiv.org/abs/2102.07764) | [발표자]() [발표자]() | [링크]() | 
+| 2024/11/19 | [Learning Depth Covariance Function](https://arxiv.org/abs/2303.12157), [COMO: Compact Mapping and Odometry](https://arxiv.org/abs/2404.03531) | [발표자]() [발표자]() | [링크]() | 
+| 2024/11/26 | 추가하고싶은 논문이 생기면 넣을 placeholder | [발표자]() [발표자]() | [링크]() | 
 
-| 날짜 | 내용 | 발표자 | 
-| -------- | -------- | ---- |
-| 2024/09/ | OT       |      |
-| 2024/09/ |  Part 1. | 미정 | 
-| 2024/09/ |  Part 2. | 미정 | 
-| 2024/09/ |  Part 3. | 미정 | 
-| 2024/10/ |  Part 4. | 미정 | 
-| 2024/10/ |  Part 5. | 미정 | 
+## 스터디 멤버
 
-## 아카이브
-- 링크
+https://github.com/Pseudo-Lab/spatial-ai-study/discussions/2
