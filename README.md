@@ -31,12 +31,13 @@ Embodied AI에 대해 아시나요?
 | 2024/10/08 |[Bundle adjustment on a graph processor](https://arxiv.org/abs/2003.03134), [Visual introduction to Gaussian Belief Propagation](https://arxiv.org/abs/2107.02308) | [김희성]() [김지성]() | [링크]() | 
 | 2024/10/15 | [Incremental Abstraction in Distributed Probabilistic SLAM graphs](https://arxiv.org/abs/2109.06241), [Visual Odometry using a Focal-Plane sensor-processor](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1819-ug-projects/MuraiR-Visual-Odometry-Using-a-Focal-plane-Sensor-processor.pdf) | [박정현]() [이원희]() | [링크]() | 
 | 2024/10/22 | [BIT-VO: Visual Odometry at 300 FPS using Binary Features from the Focal Plane](https://arxiv.org/abs/2004.11186), [A Robot web for distributed many-device localisation](https://arxiv.org/abs/2202.03314) | [윤혁진]() [장형기]() | [링크]() | 
-| 2024/10/29 | [Learning in deep factor graphs with Gaussian Belief Propagation](https://arxiv.org/abs/2311.14649), [Distributed Simultaneous Localisation and Auto-Calibration using Gaussian Belief Propagation](https://arxiv.org/abs/2401.15036) | [김선호]() [이재민]() | [링크]() | 
-| 2024/11/05 | [PixRO: Pixel-Distributed Rotational Odometry with Gaussian Belief Propagation](https://arxiv.org/abs/2406.09726), [CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM](https://arxiv.org/abs/1804.00874)| [이원희]() [박정현]() | [링크]() | 
-| 2024/11/12 | [SceneCode: Monocular Dense Semantic Reconstruction using Learned Encoded Scene Representations](https://arxiv.org/abs/1903.06482), [DeepFactors: Real-Time Probabilistic Dense Monocular SLAM](https://arxiv.org/abs/2001.05049) | [곽명철]() [김희성]() | [링크]() | 
-| 2024/11/19 | [CodeMapping: Real-Time Dense Mapping for Sparse SLAM using Compact Scene Representations](https://arxiv.org/abs/2107.08994), [End-to-End Egospheric spatial memory](https://arxiv.org/abs/2102.07764) | [이재민]() [윤혁진]() | [링크]() | 
-| 2024/11/26 | [Learning Depth Covariance Function](https://arxiv.org/abs/2303.12157), [COMO: Compact Mapping and Odometry](https://arxiv.org/abs/2404.03531) | [장형기]() [김지성]() | [링크]() | 
-| 2024/12/03 | 추가하고싶은 논문이 생기면 넣을 placeholder | [발표자]() [발표자]() | [링크]() | 
+| 2024/10/29 | 가짜연 행사로 1주 미룹니다! |  |  | 
+| 2024/11/05 | [Learning in deep factor graphs with Gaussian Belief Propagation](https://arxiv.org/abs/2311.14649), [Distributed Simultaneous Localisation and Auto-Calibration using Gaussian Belief Propagation](https://arxiv.org/abs/2401.15036) | [김선호]() [이재민]() | [링크]() | 
+| 2024/11/12 | [PixRO: Pixel-Distributed Rotational Odometry with Gaussian Belief Propagation](https://arxiv.org/abs/2406.09726), [CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM](https://arxiv.org/abs/1804.00874)| [이원희]() [박정현]() | [링크]() | 
+| 2024/11/19 | [SceneCode: Monocular Dense Semantic Reconstruction using Learned Encoded Scene Representations](https://arxiv.org/abs/1903.06482), [DeepFactors: Real-Time Probabilistic Dense Monocular SLAM](https://arxiv.org/abs/2001.05049) | [곽명철]() [김희성]() | [링크]() | 
+| 2024/11/26 | [CodeMapping: Real-Time Dense Mapping for Sparse SLAM using Compact Scene Representations](https://arxiv.org/abs/2107.08994), [End-to-End Egospheric spatial memory](https://arxiv.org/abs/2102.07764) | [이재민]() [윤혁진]() | [링크]() | 
+| 2024/12/03 | [Learning Depth Covariance Function](https://arxiv.org/abs/2303.12157), [COMO: Compact Mapping and Odometry](https://arxiv.org/abs/2404.03531) | [장형기]() [김지성]() | [링크]() | 
+| 2024/12/10 | 추가하고싶은 논문이 생기면 넣을 placeholder | [발표자]() [발표자]() | [링크]() | 
 
 ## 스터디 멤버
 
