@@ -33,11 +33,15 @@ Embodied AI에 대해 아시나요?
 | 2024/10/22 | [BIT-VO: Visual Odometry at 300 FPS using Binary Features from the Focal Plane](https://arxiv.org/abs/2004.11186), [A Robot web for distributed many-device localisation](https://arxiv.org/abs/2202.03314) | [윤혁진]() [장형기]() | [링크]() | 
 | 2024/10/29 | 가짜연 행사로 1주 미룹니다! |  |  | 
 | 2024/11/05 | [Learning in deep factor graphs with Gaussian Belief Propagation](https://arxiv.org/abs/2311.14649), [Distributed Simultaneous Localisation and Auto-Calibration using Gaussian Belief Propagation](https://arxiv.org/abs/2401.15036) | [김선호]() [이재민]() | [링크]() | 
-| 2024/11/12 | [PixRO: Pixel-Distributed Rotational Odometry with Gaussian Belief Propagation](https://arxiv.org/abs/2406.09726), [Learning Depth Covariance Function](https://arxiv.org/abs/2303.12157)| [이원희]() [박정현]() | [링크]() | 
+| 2024/11/12 | [PixRO: Pixel-Distributed Rotational Odometry with Gaussian Belief Propagation](https://arxiv.org/abs/2406.09726), [Learning Depth Covariance Function*](https://arxiv.org/abs/2303.12157)| [이원희]() [박정현]() | [링크]() | 
 | 2024/11/19 | [SceneCode: Monocular Dense Semantic Reconstruction using Learned Encoded Scene Representations](https://arxiv.org/abs/1903.06482), [DeepFactors: Real-Time Probabilistic Dense Monocular SLAM](https://arxiv.org/abs/2001.05049) | [곽명철]() [김희성]() | [링크]() | 
 | 2024/11/26 | [CodeMapping: Real-Time Dense Mapping for Sparse SLAM using Compact Scene Representations](https://arxiv.org/abs/2107.08994), [End-to-End Egospheric spatial memory](https://arxiv.org/abs/2102.07764) | [이재민]() [윤혁진]() | [링크]() | 
-| 2024/12/03 | [CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM](https://arxiv.org/abs/1804.00874), [COMO: Compact Mapping and Odometry](https://arxiv.org/abs/2404.03531) | [박정현]() [김지성]() | [링크]() | 
+| 2024/12/03 | [CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM*](https://arxiv.org/abs/1804.00874), [COMO: Compact Mapping and Odometry](https://arxiv.org/abs/2404.03531) | [박정현]() [김지성]() | [링크]() | 
 | 2024/12/10 | 추가하고싶은 논문이 생기면 넣을 placeholder | [발표자]() [발표자]() | [링크]() | 
+
+## 노트
+
+- 'Learning depth covariance function' 논문과 'CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM' 논문의 순서를 바꿔읽는게 좋습니다. 스터디원 일정 상 두 일정을 바꿨지만, 논문의 순서 상 CodeSLAM을 먼저 읽는 것이 바람직합니다.
 
 ## 스터디 멤버
 
