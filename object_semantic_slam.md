@@ -34,11 +34,10 @@ Embodied AI에 대해 아시나요?
 | 2025/10/XX | [MID-Fusion: Octree-based Object-Level Multi-Instance Dynamic SLAM](), [NodeSLAM]() | [발표자]() [발표자]() | [링크]() | 
 | 2025/10/XX | [BodySLAM: Joint Camera Localisation, Mapping, and Human Motion Tracking](), [vMAP: Vectorised Object Mapping for Neural Field SLAM]()  | [발표자]() [발표자]() | [링크]() | 
 | 2025/11/XX | [NeuSE: Neural SE(3)-Equivariant Embedding for Consistent Spatial Understanding with Objects](), [RO-MAP: Real-Time Multi-Object Mapping with Neural Radiance Fields]() | [발표자]() [발표자]() | [링크]() | 
-| 2025/11/XX | 
-[SemanticFusion: Dense 3D Semantic Mapping with Convolutional Neural Networks](), [Suma++]() | [링크]() | 
+| 2025/11/XX | [SemanticFusion: Dense 3D Semantic Mapping with Convolutional Neural Networks](), [Suma++]() | [링크]() | 
 | 2025/11/XX |  [Bayesian Spatial Kernel Smoothing for Scalable Dense Semantic Mapping](), [Convolutional Bayesian Kernel Inference for 3D Semantic Mapping]() | [발표자]() [발표자]() | [발표자]() [발표자]() | [링크]() | 
 | 2025/11/XX | [ConvBKI: Real-Time Probabilistic Semantic Mapping Network with Quantifiable Uncertainty](), [Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation]() | [발표자]() [발표자]() | [링크]() | 
-| 2025/12/XX | [ConceptFusion: Open-set Multimodal 3D Mapping](), [Visual Language Maps for Robot Navigation() | [발표자]() [발표자]() | [링크]() | 
+| 2025/12/XX | [ConceptFusion: Open-set Multimodal 3D Mapping](), [Visual Language Maps for Robot Navigation]() | [발표자]() [발표자]() | [링크]() | 
 | 2025/12/XX | [LERF](), [OpenScene: 3D Scene Understanding with Open Vocabularies]() | [발표자]() [발표자]() | [링크]() | 
 | 2025/12/XX | [FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models](), [Learning Generalizable Feature Fields for Mobile Manipulation.]() | [발표자]() [발표자]() | [링크]() | 
 | 2025/12/XX | [Physically Embodied Gaussian Splatting: A Realtime Correctable World Model for Robotics](), [Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing]() | [발표자]() [발표자]() | [링크]() | 
