@@ -8,14 +8,15 @@ Embodied AI에 대해 아시나요?
 
 근데 이 기술, 범위가 너무 넓습니다.
 우리는 여러 기수동안 유명한 교수님들의 주요 논문을 읽으며 Spatial AI에 대한 이해를 높일겁니다.
-이번 기수에서는 Spatial AI의 선두주자 - Andrew Davison 교수님의 논문을 공부합니다.
+이번 기수에서는 SLAM with scene graph representation 연구의 동향을 익히며, 주로 Luca Carlone 교수님의 논문을 공부합니다.
 
 본인이 가장 익숙한 / 공부하고 싶은 논문을 골라서, 매주 차례를 돌며 논문 세미나를 진행합니다.
 
 ## 프로젝트 내용
 
-이번 기수에서는 '기초 SLAM', 'Gaussian Belief Propgation', 'Coded SLAM & Learned priors'에 집중합니다.
-다음 기수에서는 'Object / Semantic SLAM'과 'NeRF/3DGS를 이용한 implicit reconstruction + feature fusion'에 집중합니다.
+- 이번 기수에서는 'SLAM with scene graph representation'에 집중합니다.
+- 지난 기수에서는 [Andrew Davison 교수님 랩실의 연구를 따라 Gaussian Belief Propagation과 Coded SLAM & Learned priors](https://github.com/Pseudo-Lab/spatial-ai-study/blob/main/9%EA%B8%B0.md)에 집중했습니다.
+- 다음 기수에서는 'Object / Semantic SLAM'과 'NeRF/3DGS를 이용한 implicit reconstruction + feature fusion'에 집중합니다.
 
 매주 2명의 인원이 각각 1개의 논문에 해당하는 30분 세미나를 준비해 발표합니다.
 
@@ -24,21 +25,20 @@ Embodied AI에 대해 아시나요?
 
 | 날짜 | 내용 | 발표자 | 매체 | 
 | ----- | ----- | -------- | ----- |
-| 2024/09/10 | OT (스터디 소개, 방향 논의, Ice breaking), 발표 논문 선정 | [장형기]() | [링크]() | 
-| 2024/09/17 |  추석! 쉽니다!  | [발표자]() [발표자]() | [링크]() | 
-| 2024/09/24 | [FutureMapping: The Computational Structure of Spatial AI Systems](https://arxiv.org/abs/1803.11288), [FutureMapping 2: Gaussian Belief Propagation for Spatial AI](https://arxiv.org/abs/1910.14139) | [곽명철]() [김선호]() | [링크]() | 
-| 2024/10/01 | 임시공휴일! 쉽니다! | [발표자]() [발표자]() | [링크]() |
-| 2024/10/08 |[Bundle adjustment on a graph processor](https://arxiv.org/abs/2003.03134), [Visual introduction to Gaussian Belief Propagation](https://arxiv.org/abs/2107.02308) | [김희성]() [김지성]() | [링크]() | 
-| 2024/10/15 | [Incremental Abstraction in Distributed Probabilistic SLAM graphs](https://arxiv.org/abs/2109.06241), [Visual Odometry using a Focal-Plane sensor-processor](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1819-ug-projects/MuraiR-Visual-Odometry-Using-a-Focal-plane-Sensor-processor.pdf) | [박정현]() [이원희]() | [링크]() | 
-| 2024/10/22 | [BIT-VO: Visual Odometry at 300 FPS using Binary Features from the Focal Plane](https://arxiv.org/abs/2004.11186), [A Robot web for distributed many-device localisation](https://arxiv.org/abs/2202.03314) | [윤혁진]() [장형기]() | [링크]() | 
-| 2024/10/29 | 가짜연 행사로 1주 미룹니다! |  |  | 
-| 2024/11/05 | [Learning in deep factor graphs with Gaussian Belief Propagation](https://arxiv.org/abs/2311.14649), [Distributed Simultaneous Localisation and Auto-Calibration using Gaussian Belief Propagation](https://arxiv.org/abs/2401.15036) | [김선호]() [이재민]() | [링크]() | 
-| 2024/11/12 | [PixRO: Pixel-Distributed Rotational Odometry with Gaussian Belief Propagation](https://arxiv.org/abs/2406.09726), | [이원희]() | [링크]() | 
-| 2024/11/19 | [CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM](https://arxiv.org/abs/1804.00874), [SceneCode: Monocular Dense Semantic Reconstruction using Learned Encoded Scene Representations](https://arxiv.org/abs/1903.06482) | [박정현]() [곽명철]()  | [링크]() | 
-| 2024/11/26 | [DeepFactors: Real-Time Probabilistic Dense Monocular SLAM](https://arxiv.org/abs/2001.05049). [CodeMapping: Real-Time Dense Mapping for Sparse SLAM using Compact Scene Representations](https://arxiv.org/abs/2107.08994)  | [김희성]() [이재민]()  | [링크]() | 
-| 2024/12/03 |[End-to-End Egospheric spatial memory](https://arxiv.org/abs/2102.07764), [Learning Depth Covariance Function](https://arxiv.org/abs/2303.12157)  | [윤혁진]() [장형기]() | [링크]() | 
-| 2024/12/10 | [COMO: Compact Mapping and Odometry](https://arxiv.org/abs/2404.03531) | [김지성]() [발표자]() | [링크]() | 
+| 2025/02/XX | [3D Scene Graph: A Structure for Unified Semantics, 3D Space, and Camera](https://arxiv.org/abs/1910.02527), []() | [발표자]() [발표자]() | [링크]() | 
+| 2025/02/XX |  | [발표자]() [발표자]() | [링크]() | 
+| 2025/09/XX |  | [발표자]() [발표자]() | [링크]() | 
+| 2025/10/XX |  | [발표자]() [발표자]() | [링크]() |
+| 2025/10/XX |  | [발표자]() [발표자]() | [링크]() | 
+| 2025/10/XX |  | [발표자]() [발표자]() | [링크]() | 
+| 2025/10/XX |  | [발표자]() [발표자]() | [링크]() | 
+| 2025/10/XX |  | [발표자]() [발표자]() | [링크]() | 
+| 2025/11/XX |  | [발표자]() [발표자]() | [링크]() | 
+| 2025/11/XX |  | [발표자]() [발표자]() | [링크]() | 
+| 2025/11/XX |  | [발표자]() [발표자]() | [링크]() | 
+| 2025/11/XX |  | [발표자]() [발표자]() | [링크]() | 
+| 2025/12/XX |  | [발표자]() [발표자]() | [링크]() | 
+| 2025/12/XX |  | [발표자]() [발표자]() | [링크]() | 
 
 ## 스터디 멤버
 
-https://github.com/Pseudo-Lab/spatial-ai-study/discussions/2
