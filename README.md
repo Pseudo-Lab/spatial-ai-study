@@ -28,7 +28,7 @@ Embodied AI에 대해 아시나요?
 
 본인이 가장 익숙한 / 공부하고 싶은 논문을 골라서, 매주 차례를 돌며 논문 세미나를 진행합니다.
 
-- 9기: Andrew Davison 교수님의 [Gaussian Belief Propagation](), [Coded SLAM with learned prior]() 이해하기
+- 9기: Andrew Davison 교수님의 [Gaussian Belief Propagation](https://github.com/Pseudo-Lab/spatial-ai-study/edit/main/README.md#gaussian-belief-propagation-s9), [Coded SLAM with learned prior](https://github.com/Pseudo-Lab/spatial-ai-study/edit/main/README.md#coded-slam-with-learned-priors-s9) 이해하기
 - 10기: [Object/Semantic SLAM]()
 - 미래: SLAM with Scene graph, Visual-language topological mapping, NeRF와 3DGS를 이용한 Neural implicit feature fusion, Parallel proximity programming 공부하기!
 
@@ -40,9 +40,7 @@ Embodied AI에 대해 아시나요?
 | **Member** | 레오나르도 다빈치 | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 데이터 파이프라인 설계                  |
 
 
-
-
-## 💻 주차별 활동 (Activity History)
+## 💻 주차별 활동 (Activity plan)
 
 매주 2명의 인원이 각각 1개의 논문에 해당하는 30분 세미나를 준비해 발표합니다.
 
@@ -65,6 +63,42 @@ Embodied AI에 대해 아시나요?
 | 2025/11/XX | [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/abs/2207.04429), [CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory](https://arxiv.org/abs/2210.05663) | [발표자]() [발표자]() | [링크]() | 
 | 2025/12/XX | [Graph R-CNN for Scene Graph Generation](https://arxiv.org/abs/1808.00191)_ | [발표자]() [발표자]() | [링크]() | 
 | 2025/12/XX |  | [발표자]() [발표자]() | [링크]() | 
+
+## 과거의 활동 (Activity history)
+
+### Gaussian Belief Propagation (S9)
+
+<details>
+  <summary> Click me to open the list </summary>
+  
+| 날짜 | 내용 | 발표자 | 매체 | 
+| ----- | ----- | -------- | ----- |
+| 2024/09/10 | OT (스터디 소개, 방향 논의, Ice breaking), 발표 논문 선정 | [장형기]() | - | 
+| 2024/09/17 |  추석! 쉽니다!  | - | - | 
+| 2024/09/24 | [FutureMapping: The Computational Structure of Spatial AI Systems](https://arxiv.org/abs/1803.11288), [FutureMapping 2: Gaussian Belief Propagation for Spatial AI](https://arxiv.org/abs/1910.14139) | [곽명철]() [김선호]() | [YouTube](https://youtu.be/JXyrsKVz8EY?si=2ThfW4Sl2AI970k2), [YouTube](https://youtu.be/UDzAVhhVmB0?si=ENCjuKHL13riizIs) | 
+| 2024/10/01 | 임시공휴일! 쉽니다! | - | - |
+| 2024/10/08 |[Bundle adjustment on a graph processor](https://arxiv.org/abs/2003.03134), [Visual introduction to Gaussian Belief Propagation](https://arxiv.org/abs/2107.02308) | [김희성]() [김지성]() | [YouTube](https://youtu.be/H5pXj5iwPAY?si=hQXl5AMPFeplcOdf), [YouTube](https://youtu.be/22r9V92OIak?si=UZFlePdDIxDf0XPh) | 
+| 2024/10/15 | [Incremental Abstraction in Distributed Probabilistic SLAM graphs](https://arxiv.org/abs/2109.06241), [Visual Odometry using a Focal-Plane sensor-processor](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1819-ug-projects/MuraiR-Visual-Odometry-Using-a-Focal-plane-Sensor-processor.pdf) | [박정현]() [이원희]() | [YouTube](https://youtu.be/n896HFsn7Ak?si=BVpZbDMimG_BLZI5), [YouTube](https://youtu.be/J4usWy91-0U?si=n1IfuNZgVQsxoawV) | 
+| 2024/10/22 | [BIT-VO: Visual Odometry at 300 FPS using Binary Features from the Focal Plane](https://arxiv.org/abs/2004.11186), [A Robot web for distributed many-device localisation](https://arxiv.org/abs/2202.03314) | [윤혁진]() [장형기]() | [YouTube](https://youtu.be/p7WAS2VRe9Q?si=tH-mMVZW1UHmX1eb), [YouTube](https://youtu.be/dS9wz9Yn748?si=DwZSmHi80VHcUQMw) | 
+| 2024/10/29 | 가짜연 행사로 1주 미룹니다! |  |  | 
+| 2024/11/05 | [Learning in deep factor graphs with Gaussian Belief Propagation](https://arxiv.org/abs/2311.14649), [Distributed Simultaneous Localisation and Auto-Calibration using Gaussian Belief Propagation](https://arxiv.org/abs/2401.15036) | [김선호]() [이재민]() | [YouTube](https://youtu.be/ZDt3c9qfPEw?si=H3kjO71lgBqbLsh6), [YouTube](https://youtu.be/1gZeMqx11Zk?si=gDHdnYRt25cuB5wB) | 
+| 2024/11/12 | [PixRO: Pixel-Distributed Rotational Odometry with Gaussian Belief Propagation](https://arxiv.org/abs/2406.09726), | [이원희]() | [YouTube](https://youtu.be/ly8h0nT3j1w?si=6hD75xTW6drX3v5y) | 
+
+</details>
+
+### Coded SLAM with learned priors (S9)
+
+<details>
+  <summary> Click me to open the list </summary>
+  
+| 날짜 | 내용 | 발표자 | 매체 | 
+| ----- | ----- | -------- | ----- |
+| 2024/11/19 | [CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM](https://arxiv.org/abs/1804.00874), [SceneCode: Monocular Dense Semantic Reconstruction using Learned Encoded Scene Representations](https://arxiv.org/abs/1903.06482) | [박정현]() [곽명철]()  | [YouTube](https://youtu.be/rQUNrk7-xlE?si=-tpIdUCgiLQP_pKQ), [YouTube](https://youtu.be/143wPBr-a2Y?si=w7BggylVj9OXavDG) | 
+| 2024/11/26 | [DeepFactors: Real-Time Probabilistic Dense Monocular SLAM](https://arxiv.org/abs/2001.05049). [CodeMapping: Real-Time Dense Mapping for Sparse SLAM using Compact Scene Representations](https://arxiv.org/abs/2107.08994)  | [김희성]() [이재민]()  | [YouTube](https://youtu.be/vap7oZ5hg80?si=iQPTP08HW9H0RiYq), [YouTube](https://youtu.be/ySsNrE7Z1P8?si=PdCI34NCzZcT8rR0) | 
+| 2024/12/03 |[End-to-End Egospheric spatial memory](https://arxiv.org/abs/2102.07764), [Learning Depth Covariance Function](https://arxiv.org/abs/2303.12157)  | [윤혁진]() [장형기]() | [YouTube](https://youtu.be/svbrkQs560Y?si=IT5qrzp_2giB581d), [YouTube](https://youtu.be/P8hI8IIzCew?si=D4ZM4Bd9ccTmYnUg) | 
+| 2024/12/10 | [COMO: Compact Mapping and Odometry](https://arxiv.org/abs/2404.03531) | [김지성]() [발표자]() | [YouTube](https://youtu.be/DZEA2P2KsK8?si=U2wk7dzdd3cQm7nV) | 
+
+</details>
 
 
 ## 🌱 참여 안내 (How to Engage)
