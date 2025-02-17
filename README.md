@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c0784cd3-4a5f-4cb0-be48-e9cc3da89f7d)<h1 align="center"> 스페셜한 Spatial AI 스터디 </h1>
+<h1 align="center"> 스페셜한 Spatial AI 스터디 </h1>
 
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
