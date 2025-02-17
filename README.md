@@ -1,4 +1,4 @@
-<h1 align="center"> 스페셜한 Spatial AI 스터디 </h1>
+![image](https://github.com/user-attachments/assets/c0784cd3-4a5f-4cb0-be48-e9cc3da89f7d)<h1 align="center"> 스페셜한 Spatial AI 스터디 </h1>
 
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
@@ -75,14 +75,14 @@ Embodied AI에 대해 아시나요?
 | ----- | ----- | -------- | ----- |
 | 2024/09/10 | OT (스터디 소개, 방향 논의, Ice breaking), 발표 논문 선정 | [장형기]() | - | 
 | 2024/09/17 |  추석! 쉽니다!  | - | - | 
-| 2024/09/24 | [FutureMapping: The Computational Structure of Spatial AI Systems](https://arxiv.org/abs/1803.11288), [FutureMapping 2: Gaussian Belief Propagation for Spatial AI](https://arxiv.org/abs/1910.14139) | [곽명철]() [김선호]() | [YouTube](https://youtu.be/JXyrsKVz8EY?si=2ThfW4Sl2AI970k2), [YouTube](https://youtu.be/UDzAVhhVmB0?si=ENCjuKHL13riizIs) | 
+| 2024/09/24 | [FutureMapping: The Computational Structure of Spatial AI Systems](https://arxiv.org/abs/1803.11288), [FutureMapping 2: Gaussian Belief Propagation for Spatial AI](https://arxiv.org/abs/1910.14139) | [곽명철](https://github.com/thirdcat) [김선호](https://github.com/Philipshrimp) | [YouTube](https://youtu.be/JXyrsKVz8EY?si=2ThfW4Sl2AI970k2), [YouTube](https://youtu.be/UDzAVhhVmB0?si=ENCjuKHL13riizIs) | 
 | 2024/10/01 | 임시공휴일! 쉽니다! | - | - |
-| 2024/10/08 |[Bundle adjustment on a graph processor](https://arxiv.org/abs/2003.03134), [Visual introduction to Gaussian Belief Propagation](https://arxiv.org/abs/2107.02308) | [김희성]() [김지성]() | [YouTube](https://youtu.be/H5pXj5iwPAY?si=hQXl5AMPFeplcOdf), [YouTube](https://youtu.be/22r9V92OIak?si=UZFlePdDIxDf0XPh) | 
-| 2024/10/15 | [Incremental Abstraction in Distributed Probabilistic SLAM graphs](https://arxiv.org/abs/2109.06241), [Visual Odometry using a Focal-Plane sensor-processor](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1819-ug-projects/MuraiR-Visual-Odometry-Using-a-Focal-plane-Sensor-processor.pdf) | [박정현]() [이원희]() | [YouTube](https://youtu.be/n896HFsn7Ak?si=BVpZbDMimG_BLZI5), [YouTube](https://youtu.be/J4usWy91-0U?si=n1IfuNZgVQsxoawV) | 
-| 2024/10/22 | [BIT-VO: Visual Odometry at 300 FPS using Binary Features from the Focal Plane](https://arxiv.org/abs/2004.11186), [A Robot web for distributed many-device localisation](https://arxiv.org/abs/2202.03314) | [윤혁진]() [장형기]() | [YouTube](https://youtu.be/p7WAS2VRe9Q?si=tH-mMVZW1UHmX1eb), [YouTube](https://youtu.be/dS9wz9Yn748?si=DwZSmHi80VHcUQMw) | 
+| 2024/10/08 |[Bundle adjustment on a graph processor](https://arxiv.org/abs/2003.03134), [Visual introduction to Gaussian Belief Propagation](https://arxiv.org/abs/2107.02308) | [김희성]() [김지성](https://github.com/JeeseongKim) | [YouTube](https://youtu.be/H5pXj5iwPAY?si=hQXl5AMPFeplcOdf), [YouTube](https://youtu.be/22r9V92OIak?si=UZFlePdDIxDf0XPh) | 
+| 2024/10/15 | [Incremental Abstraction in Distributed Probabilistic SLAM graphs](https://arxiv.org/abs/2109.06241), [Visual Odometry using a Focal-Plane sensor-processor](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1819-ug-projects/MuraiR-Visual-Odometry-Using-a-Focal-plane-Sensor-processor.pdf) | [박정현]() [이원희](https://github.com/Tershire) | [YouTube](https://youtu.be/n896HFsn7Ak?si=BVpZbDMimG_BLZI5), [YouTube](https://youtu.be/J4usWy91-0U?si=n1IfuNZgVQsxoawV) | 
+| 2024/10/22 | [BIT-VO: Visual Odometry at 300 FPS using Binary Features from the Focal Plane](https://arxiv.org/abs/2004.11186), [A Robot web for distributed many-device localisation](https://arxiv.org/abs/2202.03314) | [윤혁진](https://github.com/yhjin1096) [장형기]() | [YouTube](https://youtu.be/p7WAS2VRe9Q?si=tH-mMVZW1UHmX1eb), [YouTube](https://youtu.be/dS9wz9Yn748?si=DwZSmHi80VHcUQMw) | 
 | 2024/10/29 | 가짜연 행사로 1주 미룹니다! |  |  | 
-| 2024/11/05 | [Learning in deep factor graphs with Gaussian Belief Propagation](https://arxiv.org/abs/2311.14649), [Distributed Simultaneous Localisation and Auto-Calibration using Gaussian Belief Propagation](https://arxiv.org/abs/2401.15036) | [김선호]() [이재민]() | [YouTube](https://youtu.be/ZDt3c9qfPEw?si=H3kjO71lgBqbLsh6), [YouTube](https://youtu.be/1gZeMqx11Zk?si=gDHdnYRt25cuB5wB) | 
-| 2024/11/12 | [PixRO: Pixel-Distributed Rotational Odometry with Gaussian Belief Propagation](https://arxiv.org/abs/2406.09726), | [이원희]() | [YouTube](https://youtu.be/ly8h0nT3j1w?si=6hD75xTW6drX3v5y) | 
+| 2024/11/05 | [Learning in deep factor graphs with Gaussian Belief Propagation](https://arxiv.org/abs/2311.14649), [Distributed Simultaneous Localisation and Auto-Calibration using Gaussian Belief Propagation](https://arxiv.org/abs/2401.15036) | [김선호](https://github.com/Philipshrimp) [이재민]() | [YouTube](https://youtu.be/ZDt3c9qfPEw?si=H3kjO71lgBqbLsh6), [YouTube](https://youtu.be/1gZeMqx11Zk?si=gDHdnYRt25cuB5wB) | 
+| 2024/11/12 | [PixRO: Pixel-Distributed Rotational Odometry with Gaussian Belief Propagation](https://arxiv.org/abs/2406.09726), | [이원희](https://github.com/Tershire) | [YouTube](https://youtu.be/ly8h0nT3j1w?si=6hD75xTW6drX3v5y) | 
 
 </details>
 
@@ -93,10 +93,10 @@ Embodied AI에 대해 아시나요?
   
 | 날짜 | 내용 | 발표자 | 매체 | 
 | ----- | ----- | -------- | ----- |
-| 2024/11/19 | [CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM](https://arxiv.org/abs/1804.00874), [SceneCode: Monocular Dense Semantic Reconstruction using Learned Encoded Scene Representations](https://arxiv.org/abs/1903.06482) | [박정현]() [곽명철]()  | [YouTube](https://youtu.be/rQUNrk7-xlE?si=-tpIdUCgiLQP_pKQ), [YouTube](https://youtu.be/143wPBr-a2Y?si=w7BggylVj9OXavDG) | 
+| 2024/11/19 | [CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM](https://arxiv.org/abs/1804.00874), [SceneCode: Monocular Dense Semantic Reconstruction using Learned Encoded Scene Representations](https://arxiv.org/abs/1903.06482) | [박정현]() [곽명철](https://github.com/thirdcat)  | [YouTube](https://youtu.be/rQUNrk7-xlE?si=-tpIdUCgiLQP_pKQ), [YouTube](https://youtu.be/143wPBr-a2Y?si=w7BggylVj9OXavDG) | 
 | 2024/11/26 | [DeepFactors: Real-Time Probabilistic Dense Monocular SLAM](https://arxiv.org/abs/2001.05049). [CodeMapping: Real-Time Dense Mapping for Sparse SLAM using Compact Scene Representations](https://arxiv.org/abs/2107.08994)  | [김희성]() [이재민]()  | [YouTube](https://youtu.be/vap7oZ5hg80?si=iQPTP08HW9H0RiYq), [YouTube](https://youtu.be/ySsNrE7Z1P8?si=PdCI34NCzZcT8rR0) | 
-| 2024/12/03 |[End-to-End Egospheric spatial memory](https://arxiv.org/abs/2102.07764), [Learning Depth Covariance Function](https://arxiv.org/abs/2303.12157)  | [윤혁진]() [장형기]() | [YouTube](https://youtu.be/svbrkQs560Y?si=IT5qrzp_2giB581d), [YouTube](https://youtu.be/P8hI8IIzCew?si=D4ZM4Bd9ccTmYnUg) | 
-| 2024/12/10 | [COMO: Compact Mapping and Odometry](https://arxiv.org/abs/2404.03531) | [김지성]() [발표자]() | [YouTube](https://youtu.be/DZEA2P2KsK8?si=U2wk7dzdd3cQm7nV) | 
+| 2024/12/03 |[End-to-End Egospheric spatial memory](https://arxiv.org/abs/2102.07764), [Learning Depth Covariance Function](https://arxiv.org/abs/2303.12157)  | [윤혁진](https://github.com/yhjin1096) [장형기]() | [YouTube](https://youtu.be/svbrkQs560Y?si=IT5qrzp_2giB581d), [YouTube](https://youtu.be/P8hI8IIzCew?si=D4ZM4Bd9ccTmYnUg) | 
+| 2024/12/10 | [COMO: Compact Mapping and Odometry](https://arxiv.org/abs/2404.03531) | [김지성](https://github.com/JeeseongKim) | [YouTube](https://youtu.be/DZEA2P2KsK8?si=U2wk7dzdd3cQm7nV) | 
 
 </details>
 
@@ -118,16 +118,28 @@ Embodied AI에 대해 아시나요?
 
 '스페셜한 Spatial AI' is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
 
-## About Pseudo Lab 👋🏼</h2>
+## About Pseudo Lab 👋🏼
 
 [Pseudo-Lab](https://pseudo-lab.com/) is a non-profit organization focused on advancing machine learning and AI technologies. Our core values of Sharing, Motivation, and Collaborative Joy drive us to create impactful open-source projects. With over 5k+ researchers, we are committed to advancing machine learning and AI technologies.
 
-<h2>Contributors 😃</h2>
-<a href="https://github.com/Pseudo-Lab/10th-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Pseudo-Lab/10th-template" />
-</a>
-<br><br>
+## Contributors 😃
 
-<h2>License 🗞</h2>
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Philipshrimp"><img src="https://avatars.githubusercontent.com/u/7986113?v=4" width="100px;" alt=""/><br /><sub><b>Sunho Kim </b></sub></a><br /><a href="https://github.com/Philipshrimp" title="GitHub"> :octocat:</a></td>
+    <td align="center"><a href="https://github.com/Tershire"><img src="https://avatars.githubusercontent.com/u/84491744?v=4" width="100px;" alt=""/><br /><sub><b>Wonhee Lee </b></sub></a><br /><a href="https://github.com/Tershire" title="GitHub">:octocat:</a></td>
+    <td align="center"><a href="https://github.com/JeeseongKim"><img src="https://avatars.githubusercontent.com/u/65888017?v=4" width="100px;" alt=""/><br /><sub><b>Jeeseong Kim </b></sub></a><br /><a href="https://github.com/JeeseongKim" title="GitHub">:octocat:</a></td>
+    <td align="center"><a href="https://github.com/yhjin1096"><img src="https://avatars.githubusercontent.com/u/106298374?v=4" width="100px;" alt=""/><br /><sub><b>Hyeokjin Yoon </b></sub></a><br /><a href="https://github.com/yhjin1096" title="GitHub">:octocat:</a></td>
+    <td align="center"><a href="https://github.com/thirdcat"><img src="https://avatars.githubusercontent.com/u/6870137?v=4" width="100px;" alt=""/><br /><sub><b>Myeongchul Kwak </b></sub></a><br /><a href="https://github.com/thirdcat" title="GitHub">:octocat:</a></td>
+    <td align="center"><a href="https://github.com/luckydipper"><img src="https://avatars.githubusercontent.com/u/65158138?v=4" width="100px;" alt=""/><br /><sub><b>Heesung Kim </b></sub></a><br /><a href="https://github.com/luckydipper" title="GitHub">:octocat:</a></td>
+    <td align="center"><a href="https://github.com/parkjh688"><img src="https://avatars.githubusercontent.com/u/36429399?v=4" width="100px;" alt=""/><br /><sub><b>Junghyun Park </b></sub></a><br /><a href="https://github.com/parkjh688" title="GitHub">:octocat:</a></td>
+    <td align="center"><a href="https://github.com/elitechrome"><img src="https://avatars.githubusercontent.com/u/5326562?v=4" width="100px;" alt=""/><br /><sub><b>Jaemin Lee </b></sub></a><br /><a href="https://github.com/elitechrome" title="GitHub">:octocat:</a></td>
+  </tr>
+</table>
+
+## License 🗞
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
