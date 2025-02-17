@@ -45,7 +45,7 @@ Embodied AI에 대해 아시나요?
 매주 2명의 인원이 각각 1개의 논문에 해당하는 30분 세미나를 준비해 발표합니다.
 
 - 시간: 화요일 오후 9시
-- 장소: [#ROOM-AN](https://discord.gg/EPurkHVtp2)
+- 장소: [#ROOM-YB](https://discord.gg/EPurkHVtp2)
 
 | 날짜 | 내용 | 발표자 | 매체 | 
 | ----- | ----- | -------- | ----- |
