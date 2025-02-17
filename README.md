@@ -110,9 +110,6 @@ Embodied AI에 대해 아시나요?
 2. Magical Week 중 행사에 참가
 3. Pseudo Lab 행사에서 만나기
 
-## 이전 기수 멤버들 (Alumni)
-
-
 
 ## Acknowledgement 🙏
 
