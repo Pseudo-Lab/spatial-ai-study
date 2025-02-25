@@ -62,7 +62,7 @@ Embodied AI에 대해 아시나요?
 | 2025/05/13 | [Collaborative Dynamic 3D Scene Graphs for Automated Driving](https://arxiv.org/abs/2309.06635), [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Task Planning](https://arxiv.org/abs/2307.06135) | [발표자]() [발표자]() | [링크]() | 
 | 2025/05/20 | [Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships](https://arxiv.org/abs/2402.12259), [Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation](https://arxiv.org/abs/2403.17846) | [발표자]() [발표자]() | [링크]() | 
 | 2025/05/27 | [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/abs/2207.04429), [CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory](https://arxiv.org/abs/2210.05663) | [발표자]() [발표자]() | [링크]() | 
-| 2025/06/03 | [Graph R-CNN for Scene Graph Generation](https://arxiv.org/abs/1808.00191)_ | [발표자]() [발표자]() | [링크]() | 
+| 2025/06/03 | [Graph R-CNN for Scene Graph Generation](https://arxiv.org/abs/1808.00191), [Multi-view scene graph](https://arxiv.org/abs/2410.11187) | [발표자]() [발표자]() | [링크]() | 
 | 2025/06/10 |  | [발표자]() [발표자]() | [링크]() | 
 
 ## 과거의 활동 (Activity history)
