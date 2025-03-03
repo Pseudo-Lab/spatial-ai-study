@@ -29,8 +29,8 @@ Embodied AI에 대해 아시나요?
 본인이 가장 익숙한 / 공부하고 싶은 논문을 골라서, 매주 차례를 돌며 논문 세미나를 진행합니다.
 
 - 9기: Andrew Davison 교수님의 [Gaussian Belief Propagation](https://github.com/Pseudo-Lab/spatial-ai-study/edit/main/README.md#gaussian-belief-propagation-s9), [Coded SLAM with learned prior](https://github.com/Pseudo-Lab/spatial-ai-study/edit/main/README.md#coded-slam-with-learned-priors-s9) 이해하기
-- 10기: [Object/Semantic SLAM]()
-- 미래: SLAM with Scene graph, Visual-language topological mapping, NeRF와 3DGS를 이용한 Neural implicit feature fusion, Parallel proximity programming 공부하기!
+- 10기: [SLAM with Scene graph]()
+- 미래: Object/Semantic SLAM, Visual-language topological mapping, NeRF와 3DGS를 이용한 Neural implicit feature fusion, Parallel proximity programming 공부하기!
 
 ## 🧑 역동적인 팀 소개 (Dynamic Team)
 
