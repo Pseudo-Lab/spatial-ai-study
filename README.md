@@ -51,7 +51,7 @@ Embodied AI에 대해 아시나요?
 | ----- | ----- | -------- | ----- |
 | 2025/03/04 | OT | [장형기]() | - | 
 | 2025/03/11 | [3D Scene Graph: A Structure for Unified Semantics, 3D Space, and Camera](https://arxiv.org/abs/1910.02527), [3D Dynamic Scene Graphs: Actionable Spatial Perception with Places, Objects, and Humans](https://arxiv.org/abs/2002.06289) | [이채혁]() [권용현]() | [링크]() | 
-| 2025/03/18 | [Kimera: an open-source library for real-time metric-semantic localization and mapping](https://arxiv.org/abs/1910.02490), [Kimera: From SLAM to spatial perception with 3D dynamic scene graphs](https://arxiv.org/abs/2101.06894) | [발표자]() [김희성]() | [링크]() | 
+| 2025/03/18 | [Kimera: an open-source library for real-time metric-semantic localization and mapping](https://arxiv.org/abs/1910.02490), [Kimera: From SLAM to spatial perception with 3D dynamic scene graphs](https://arxiv.org/abs/2101.06894) | [장형기]() [김희성]() | [링크]() | 
 | 2025/03/25 | [Kimera-multi: Robust, distributed, dense metric-semantic slam for multi-robot systems](https://arxiv.org/abs/2106.14386), [Hydra: A real-time spatial perception system for 3D scene graph construction and optimization](https://arxiv.org/abs/2201.13360) | [양우성]() [박대성]() | [링크]() | 
 | 2025/04/01 | [Hierarchical representations and explicit memory: Learning effective navigation policies on 3d scene graphs using graph neural networks](https://arxiv.org/abs/2108.01176), [Hydra-multi: Collaborative online construction of 3d scene graphs with multi-robot teams](https://arxiv.org/abs/2304.13487) | [발표자]() [양우성]() | [링크]() |
 | 2025/04/08 | [Kimera2: Robust and accurate metric-semantic SLAM in the real world](https://arxiv.org/abs/2401.06323), [Foundations of spatial perception for robotics: Hierarchical representations and real-time systems](https://arxiv.org/abs/2305.07154) | [권용현]() [발표자]() | [링크]() | 
@@ -59,10 +59,10 @@ Embodied AI에 대해 아시나요?
 | 2025/04/22 | [Task and Motion Planning in Hierarchical 3D Scene Graphs](https://arxiv.org/abs/2403.08094), [Clio: Real-time Task-Driven Open-Set 3D Scene Graphs](https://arxiv.org/abs/2404.13696) | [이채혁]() [이원희]() | [링크]() | 
 | 2025/04/29 | [Long-Term Human Trajectory Prediction using 3D Dynamic Scene Graphs](https://arxiv.org/abs/2404.13696), [S-Graphs+: Real-Time Localization and Mapping Leveraging Hierarchical Representations](https://arxiv.org/abs/2212.11770)| [발표자]() [김희성]() | [링크]() | 
 | 2025/05/06 | [SceneGraphFusion: Incremental 3D Scene Graph Prediction from RGB-D Sequences](https://arxiv.org/abs/2103.14898), [ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning](https://arxiv.org/abs/2309.16650) | [박대성]() [장형기]() | [링크]() | 
-| 2025/05/13 | [Collaborative Dynamic 3D Scene Graphs for Automated Driving](https://arxiv.org/abs/2309.06635), [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Task Planning](https://arxiv.org/abs/2307.06135) | [이다인]() [장교철]() | [링크]() | 
+| 2025/05/13 | [Collaborative Dynamic 3D Scene Graphs for Automated Driving](https://arxiv.org/abs/2309.06635), [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Task Planning](https://arxiv.org/abs/2307.06135) | [이다인]() [발표자]() | [링크]() | 
 | 2025/05/20 | [Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships](https://arxiv.org/abs/2402.12259), [Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation](https://arxiv.org/abs/2403.17846) | [발표자]() [장형기]() | [링크]() | 
 | 2025/05/27 | [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/abs/2207.04429), [CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory](https://arxiv.org/abs/2210.05663) | [이원희]() [이다인]() | [링크]() | 
-| 2025/06/03 | [Graph R-CNN for Scene Graph Generation](https://arxiv.org/abs/1808.00191), [Multi-view scene graph](https://arxiv.org/abs/2410.11187) | [장교철]() [최인성]() | [링크]() | 
+| 2025/06/03 | [Graph R-CNN for Scene Graph Generation](https://arxiv.org/abs/1808.00191), [Multi-view scene graph](https://arxiv.org/abs/2410.11187) | [발표자]() [최인성]() | [링크]() | 
 | 2025/06/10 |  | [발표자]() [발표자]() | [링크]() | 
 
 권용현 김희성 박대성 양우성 이채혁 장교철 최인성 이원희
