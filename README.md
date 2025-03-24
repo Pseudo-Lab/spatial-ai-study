@@ -34,10 +34,17 @@ Embodied AI에 대해 아시나요?
 
 ## 🧑 역동적인 팀 소개 (Dynamic Team)
 
-| 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
-|---------------|------|-----------------------------------------------------------------------|----------------------------------------|
-| **Project Manager** | 장형기 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 생성형 AI/추천 시스템 최적화             |
-| **Member** | 레오나르도 다빈치 | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 데이터 파이프라인 설계                  |
+| 역할          | 이름 |  
+|---------------|------|
+| **Project Manager** | 장형기 | 
+| **Member** | 이원희 | 
+| **Member** | 김희성 | 
+| **Member** | 이채혁 | 
+| **Member** | 권용현 | 
+| **Member** | 이다인 | 
+| **Member** | 양우성 | 
+| **Member** | 박대성 | 
+| **Member** | 최인성 | 
 
 
 ## 💻 주차별 활동 (Activity plan)
